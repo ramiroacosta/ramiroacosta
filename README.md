@@ -1,16 +1,41 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Guys+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
-<!--
-**ramiroacosta/ramiroacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="1200" src="assets/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" />
+</p>  
+
+<h2 align="center">Hi  👋, I'm Ramiro Acosta!</h2>
+
+## 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+
+## 👨🏻‍💻 About Me
+
+🔭  &nbsp;As a Systems Engineering student with a strong foundation in programming (JavaScript, HTML, CSS, and C++) and basic networking knowledge, I am passionate about exploring new technologies and creating innovative solutions.\
+🌱  &nbsp;I have a keen interest in constitutional law as a first-year Law student, alongside my technical background, allowing me to analyze challenges from diverse perspectives.\
+🛠️  &nbsp;Currently, I’m honing my skills in product management, working on projects like a ProductManager class to handle complex data efficiently. I’ve also tackled teamwork scenarios and delivered oral presentations involving C++ functions for advanced transaction management.\
+💼  &nbsp;Available for collaborations in software development, pro bono consulting, or mentorship, especially in team environments where I bring my bilingual proficiency in Portuguese and experience mentoring newcomers.\
+💡 &nbsp; Always eager to learn and grow, I seek opportunities to bridge technology and law, contributing to meaningful discussions and real-world applications.\
+💬  &nbsp;Let’s connect for tech advice, programming challenges, or thought-provoking conversations!\
+✉️ &nbsp; Reach me via email, and I'll respond promptly!\
+
+<div align="center"> </div>
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<a href="https://www.buymeacoffee.com/lahiruprabS" target="_blank" rel="noreferrer nofollow">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
+
