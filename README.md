@@ -28,14 +28,6 @@
 ✉️ &nbsp; Reach me via email, and I'll respond promptly!\
 
 <div align="center"> </div>
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=codeoxygen&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeoxygen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeoxygen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<a href="https://www.buymeacoffee.com/lahiruprabS" target="_blank" rel="noreferrer nofollow">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-</a>
+ 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
